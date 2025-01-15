@@ -2,8 +2,8 @@ import React from 'react'
 
 const Screen = () => {
   return (
-    <div>
-      HEllO WOLRD
+    <div className='bg-black flex justify-center items-center h-screen'>
+      <h1>HELLO WORLD</h1>
     </div>
   )
 }
